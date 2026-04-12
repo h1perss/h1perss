@@ -1,7 +1,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h1>Hi there, I'm <a href="https://h1p.dev">h1p.dev</a> 👋</h1>
+      <h1>Hi there, I'm <a href="https://h1pdev.qzz.io/h1pdev">h1p.dev</a> 👋</h1>
       <h3>🔴 Red Team Specialist @ <a href="https://www.turkishairlines.com">Turkish Airlines</a></h3>
  
  <h1 align="center">Hi 👋, I'm h1p.dev</h1>
