@@ -14,10 +14,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h1perss" alt="h1perss" /></a> </p>
-
-
-
 <p align="left"> <a href="https://twitter.com/h1p_dev" target="blank"><img src="https://img.shields.io/twitter/follow/h1p_dev?logo=twitter&style=for-the-badge" alt="h1p_dev" /></a> </p>
 
 
