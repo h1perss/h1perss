@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/hole.gif" width="100%" />
+  <img src="/ricardo-cruz-black-hole-front-view.gif" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/dev.gif" width="100%" />
+  <img src="/terminal-3.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm h1p.dev</h1>
