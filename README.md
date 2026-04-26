@@ -41,7 +41,7 @@ Built with passion.
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/0iWKt258IiGrG6g1vDAz6H" target="_blank">
-    <img src="/spotify.png" width="120" />
+    <img src="/spotify.png" width="500" />
   </a>
 </p>
 
