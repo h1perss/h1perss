@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="/terminal-3.gif" width="100%" />
+  <img src="/terminal-3.gif" width="100%" style="border-radius:16px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm h1p.dev</h1>
@@ -34,6 +34,24 @@ Built with passion.
 - 🧪 Interested in **Offensive Security, Exploitation, Web Security**  
 - ⚡ Fast learner, always experimenting with new attack vectors  
 - 🎯 Goal: Build & break complex systems  
+
+---
+
+## 🎧 Spotify Playlist
+
+<p align="center">
+  <iframe 
+    data-testid="embed-iframe"
+    style="border-radius:12px"
+    src="https://open.spotify.com/embed/playlist/0iWKt258IiGrG6g1vDAz6H?utm_source=generator&theme=0"
+    width="100%"
+    height="352"
+    frameBorder="0"
+    allowfullscreen=""
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy">
+  </iframe>
+</p>
 
 ---
 
@@ -114,5 +132,3 @@ Built with passion.
 ## ⚡ Quote
 
 > "I break systems before attackers do."
-
----
