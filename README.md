@@ -69,18 +69,16 @@ Built with passion.
 
 ## 📫 Contact
 
-- 📧 vesperaproduction1@gmail.com  
+- 📧 hiperscer@proton.me
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
 <a href="https://dev.to/h1p_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
 <a href="https://twitter.com/h1p_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/h1p_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://discord.gg/EygvrTuPUe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
-</p>
 
 ---
 
@@ -109,6 +107,18 @@ Built with passion.
   <br><br>
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,arduino,figma,ps,unreal&perline=10" />
 </div>
+
+---
+
+## 🌐 Discord
+
+<p align="center">
+  <a href="https://discord.com/users/1120695903636955217" target="_blank">
+    <img src="/discord.png" width="600" />
+  </a>
+</p>
+
+---
 
 ---
 
