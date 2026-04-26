@@ -114,7 +114,7 @@ Built with passion.
 
 <p align="center">
   <a href="https://discord.com/users/1120695903636955217" target="_blank">
-    <img src="/discord.png" width="600" />
+    <img src="/discord.png" width="450" />
   </a>
 </p>
 
