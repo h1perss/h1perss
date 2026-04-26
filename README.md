@@ -35,13 +35,9 @@ Built with passion.
 - ⚡ Fast learner, always experimenting with new attack vectors  
 - 🎯 Goal: Build & break complex systems  
 
----
-
-## 🎧 Spotify Playlist
-
 <p align="center">
   <a href="https://open.spotify.com/playlist/0iWKt258IiGrG6g1vDAz6H" target="_blank">
-    <img src="/spotify.png" width="500" />
+    <img src="/spotify.png" width="600" />
   </a>
 </p>
 
