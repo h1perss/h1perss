@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="/terminal-3.gif" width="100%" style="border-radius:16px;" />
+  <img src="/terminal-3.gif" width="100%" style="border-radius:16;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm h1p.dev</h1>
